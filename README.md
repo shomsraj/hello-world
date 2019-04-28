@@ -7,3 +7,4 @@ Adding line6
 Adding line7
 Adding Line8
 Adding master line9
+Master function1 added
